@@ -1,7 +1,7 @@
 package com.mycompany.springboot.elasticsearch.springbootelasticsearch.repository;
 
 import com.mycompany.springboot.elasticsearch.springbootelasticsearch.document.Site;
-import com.sun.tools.javac.util.List;
+import java.util.List;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;

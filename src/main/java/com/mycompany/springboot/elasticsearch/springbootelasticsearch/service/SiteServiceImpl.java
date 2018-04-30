@@ -2,7 +2,7 @@ package com.mycompany.springboot.elasticsearch.springbootelasticsearch.service;
 
 import com.mycompany.springboot.elasticsearch.springbootelasticsearch.document.Site;
 import com.mycompany.springboot.elasticsearch.springbootelasticsearch.repository.SiteElasticSearchRepository;
-import com.sun.tools.javac.util.List;
+import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
